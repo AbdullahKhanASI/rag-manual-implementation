@@ -20,3 +20,4 @@ openpyxl
 jq
 matplotlib
 langchain-huggingface
+langchain-pinecone
