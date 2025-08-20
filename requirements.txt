@@ -4,6 +4,7 @@ faiss-cpu
 tiktoken
 langchain-community
 langchain-openai
+langchain-experimental
 chromadb
 sentence-transformers
 pypdf
@@ -17,7 +18,9 @@ python-docx
 docx2txt
 unstructured[docx]
 openpyxl
+scikit-learn
 jq
 matplotlib
 langchain-huggingface
 langchain-pinecone
+rank-bm25
